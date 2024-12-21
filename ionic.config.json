@@ -1,7 +1,0 @@
-{
-  "name": "eoullim",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "react-vite"
-}
